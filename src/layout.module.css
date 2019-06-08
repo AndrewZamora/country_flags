@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.flag {
+  height: 300px;
+  width: 400px;
+}
+
+.form {
+  padding: 2em;
+}
